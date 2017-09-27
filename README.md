@@ -1,6 +1,11 @@
 # portfolio
 Professional portfolio using AWS and ReactJS
 
-Technology incorporated:
+# Technologies employed
+
+Brew
 GIT and GitHub
 SSH
+HTML
+Font Awesome
+Google Fonts
